@@ -1,1 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=17&duration=3500&pause=1000&center=true&vCenter=true&color=8DA3B8&width=650&lines=I+can't+hold+on%2C;It's+all+too+much+to+take+in;I+can't+hold+on%2C;With+thoughts+of+failure+sinking+in)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=17&duration=3500&pause=1000&center=true&vCenter=true&color=C0D4ED&width=650&lines=I+can't+hold+on%2C;It's+all+too+much+to+take+in;I+can't+hold+on%2C;With+thoughts+of+failure+sinking+in" alt="Typing SVG">
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ra1ndt/Ra1ndt/28549c1dfe0479b1e54d1aa2a64a3068a5ec822c/meowl.png">
+</div>
