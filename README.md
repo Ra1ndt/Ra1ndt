@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/joe.png?raw=true" width="300">
-</div>
-
-
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -10,3 +5,12 @@
   </a>
 </p>
 
+
+<div align="center">
+  <img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/joe.png?raw=true" width="450">
+</div>
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ra1ndt&label=☁︎+Visitors&color=1A1A1A&style=plastic&abbreviated=true">
+</p>
