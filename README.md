@@ -5,5 +5,5 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ra1ndt/Ra1ndt/28549c1dfe0479b1e54d1aa2a64a3068a5ec822c/meowl.png">
+  <img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/meowl.png?raw=true" width="550">
 </div>
