@@ -11,6 +11,15 @@
 </div>
 <br>
 
+<div align="center">
+  <sub>
+    <a href="https://rainyseason.atabook.org/">𓏲 𝐀𝐭𝐚𝐛𝐨𝐨𝐤</a> &nbsp; ﹕ &nbsp;
+    <a href="https://rainwav.straw.page/">𝐒𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞 ⏖</a>
+  </sub>
+</div>
+<br>
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ra1ndt&label=☁︎+Visitors&color=1A1A1A&style=plastic&abbreviated=true">
 </p>
