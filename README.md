@@ -23,3 +23,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ra1ndt&label=☁︎+Visitors&color=1A1A1A&style=plastic&abbreviated=true">
 </p>
+<br>
+<div align="center">
+  <img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/bunny.gif?raw=true" width="350">
+</div>
+<br>
