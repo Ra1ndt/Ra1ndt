@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/joe.png?raw=true" width="450" align="left">
+<img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/joe.png?raw=true" width="300" align="left">
 
 
 <div align="center">
