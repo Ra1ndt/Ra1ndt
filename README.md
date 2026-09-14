@@ -4,7 +4,7 @@
 <img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/meow%20(2).png?raw=true" width="350" align="left">
 <div align="center">
 
-<br> <br>
+<br> <br><br>
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=25&duration=3500&pause=1000&center=true&vCenter=true&color=D2D4D6&width=400&lines=I+can't+hold+on%2C;It's+all+too+much+to+take+in;I+can't+hold+on%2C;With+thoughts+of+failure+sinking+in" alt="Typing SVG">
 </a>
