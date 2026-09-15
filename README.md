@@ -1,7 +1,7 @@
 <br><br>
 
 <div align="center">
-<img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/hahnn.png?raw=true" width="400" align="left">
+<img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/hahnn.png?raw=true" width="350" align="left">
 <div align="center">
 
 <br> <br><br>
