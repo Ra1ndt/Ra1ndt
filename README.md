@@ -1,7 +1,7 @@
 <br><br>
 
 <div align="center">
-<img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/meow%20(2).png?raw=true" width="350" align="left">
+<img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/hahn.png?raw=true" width="250" align="left">
 <div align="center">
 
 <br> <br><br>
@@ -10,9 +10,17 @@
 </a>
 <br>
 <br>
-<a href="https://rainyseason.atabook.org/">𓏲 𝐀𝐭𝐚𝐛𝐨𝐨𝐤</a>
-&nbsp; ﹕ &nbsp;
-<a href="https://rainwav.straw.page/">𝐒𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞 ⏖</a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <font size="2">
+        <a href="https://rainyseason.atabook.org/">𓏲 𝐀𝐭𝐚𝐛𝐨𝐨𝐤</a>
+        &nbsp; 𓏵 &nbsp;
+        <a href="https://rainwav.straw.page/">𝐒𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞 ⏖</a>
+      </font>
+    </td>
+  </tr>
+</table>
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=Ra1ndt&label=♡&color=1A1A1A&style=plastic&abbreviated=true">
