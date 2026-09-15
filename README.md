@@ -18,11 +18,17 @@
 
 <br>
 
+<table align="center">
+<tr>
+<td align="center">
 <font size="2">
 <a href="https://rainyseason.atabook.org/">𓏲 𝐀𝐭𝐚𝐛𝐨𝐨𝐤</a>
-&nbsp; 𓏵 &nbsp;
+ㅤ𓏵ㅤ
 <a href="https://rainwav.straw.page/">𝐒𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞 ⏖</a>
 </font>
+</td>
+</tr>
+</table>
 
 <br><br>
 
