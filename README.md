@@ -10,7 +10,7 @@
 
 <img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/hahnn.png?raw=true" width="380" align="left">
 
-<br><br><br>
+<br><br>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=25&duration=3500&pause=1000&center=true&vCenter=true&color=D2D4D6&width=400&lines=I+can't+hold+on%2C;It's+all+too+much+to+take+in;I+can't+hold+on%2C;With+thoughts+of+failure+sinking+in" alt="Typing SVG">
@@ -30,7 +30,7 @@
 
 <br clear="left">
 
-<br><br>
+<br>
 
 <div align="left">
 
