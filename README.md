@@ -1,8 +1,8 @@
 <br><br>
 
-<div align="right">
+<div align="center">
 <img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/hahnn.png?raw=true" width="300" align="left">
-<div align="right">
+<div align="center">
 
 <br> <br><br>
 <a href="https://git.io/typing-svg">
