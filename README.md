@@ -43,9 +43,7 @@
 <p>Listening to:</p>
 </sub>
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313s77egvnqkk5ku4btsgkpvuyt4&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313s77egvnqkk5ku4btsgkpvuyt4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=525252&bar_color_cover=false">
-</a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313s77egvnqkk5ku4btsgkpvuyt4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=707070&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=313s77egvnqkk5ku4btsgkpvuyt4&redirect=true)
 <br> <br>
 <img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/CHECKED.png?raw=true" width="4000">
 </div>
