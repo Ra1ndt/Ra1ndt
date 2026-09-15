@@ -6,7 +6,7 @@
 
 <img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/divider.png?raw=true" width="930">
 
-<br>
+<br><br>
 
 <img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/hahnn.png?raw=true" width="300" align="left">
 
