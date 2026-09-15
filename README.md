@@ -29,8 +29,7 @@
 </td>
 </tr>
 </table>
-
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Ra1ndt&label=♡&color=1A1A1A&style=plastic&abbreviated=true">
 
