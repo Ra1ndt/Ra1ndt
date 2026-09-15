@@ -32,6 +32,7 @@
 </sub>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313s77egvnqkk5ku4btsgkpvuyt4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=525252&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=313s77egvnqkk5ku4btsgkpvuyt4&redirect=true)
+
 <br>
 
 
