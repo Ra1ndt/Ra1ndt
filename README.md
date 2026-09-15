@@ -4,7 +4,7 @@
 <tr>
 <td align="center">
 
-<img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/divider.png?raw=true" width="930">
+<img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/CHECKED.png?raw=true" width="1000">
 
 <br><br>
 
@@ -41,7 +41,8 @@
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313s77egvnqkk5ku4btsgkpvuyt4&redirect=true">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313s77egvnqkk5ku4btsgkpvuyt4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=525252&bar_color_cover=false">
 </a>
-
+<br> <br>
+<img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/CHECKED.png?raw=true" width="1000">
 </div>
 
 </td>
