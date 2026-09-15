@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/hahnn.png?raw=true" width="400" align="left">
+<img src="https://github.com/Ra1ndt/Ra1ndt/blob/main/hahnn.png?raw=true" width="380" align="left">
 
 <br><br><br>
 
